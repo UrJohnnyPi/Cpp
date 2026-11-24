@@ -1,6 +1,6 @@
 # 📘 C++ 知识体系 · 笔记与代码实践
 
-> C++11 特性、基本算法、面试知识点、Effective C++、socket 编程、多线程、设计模式 —— 一份持续更新的 C++ 学习与实践仓库。
+> C++11 特性、基本算法、面试知识点、Effective C++、socket 编程、多线程、设计模式 —— 一份基础的 C++ 学习与实践仓库。
 
 <p align="center">
   <img src="https://img.shields.io/badge/语言-C%2B%2B-blue?style=flat-square" />
