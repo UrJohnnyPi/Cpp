@@ -5,16 +5,19 @@
 <p align="center">
   <img src="https://img.shields.io/badge/语言-C%2B%2B-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/标准-C%2B%2B11%20%7C%20%E8%B7%A8%E5%B9%B3%E5%8F%B0-informational?style=flat-square" />
-  <img src="https://img.shields.io/badge/状态-持续更新-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/状态-已完结-success?style=flat-square" />
 </p>
 
 ---
 
 ## ✨ 简介
 
-本仓库记录了我在 C++ 学习与工程实践过程中的整理与总结，覆盖 **语言特性、算法训练、面试准备、经典书籍笔记、网络编程、并发编程、设计模式** 等多个维度。
+本仓库记录了派总在 C++ 学习与工程实践过程中的整理与总结，覆盖 **语言特性、算法训练、面试准备、经典书籍笔记、网络编程、并发编程、设计模式** 等多个维度。
 
 内容以 **笔记 + 代码** 的形式组织，力求做到 **分类清晰、可检索、可复用**，既适合作为日常开发的参考手册，也可用于面试前的系统复习。
+
+PS：这是派总2020年本科毕业找工作时整理的笔记，对派总后续四年的内核开发生涯起到了比较重要的作用。
+派总一度想开源一些BSP/HAL方面的笔记资料（硬件、内核、架构、算法、内存、功耗、稳定性、性能、XTS、三方等等），但由于内容太过耦合具体项目，派总就不做这种有风险的操作了，有需要的比奇堡居民们，欢迎随时咨询。
 
 ---
 
@@ -42,7 +45,6 @@ git clone https://github.com/UrJohnnyPi/Cpp.git
 
 - 按主题进入对应文件夹即可，每个目录围绕一个独立的知识方向组织；
 - 代码部分可直接用任意 C++ 编译器编译运行（部分 Windows 相关示例需在 Windows 环境下测试）；
-- 笔记以 Markdown / 文档形式呈现，推荐用支持 Markdown 的编辑器打开，配合全局搜索快速定位知识点。
 
 ---
 
